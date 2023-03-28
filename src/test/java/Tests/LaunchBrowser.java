@@ -24,7 +24,7 @@ public void launch() throws InterruptedException
 	driver.get("https://google.com");
 	
 	driver.manage().window().maximize();
-	Thread.sleep(1000);
+	System.out.println(" Launched Browser");
 	driver.quit();
 	
 	
