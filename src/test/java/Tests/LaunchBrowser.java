@@ -21,10 +21,11 @@ public void launch() throws InterruptedException
 {
 	WebDriverManager.chromedriver().setup();
 	driver = new ChromeDriver();
-	driver.get("https://google.com");
+	driver.get("https://fb.com");
 	
 	driver.manage().window().maximize();
 	System.out.println(" Launched Browser");
+	
 	
 	
 	
