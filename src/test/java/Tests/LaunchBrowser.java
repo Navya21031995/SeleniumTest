@@ -25,7 +25,8 @@ public void launch() throws InterruptedException
 	
 	driver.manage().window().maximize();
 	System.out.println(" Launched Browser");
-	driver.quit();
+	
+	
 	
 	
 }
