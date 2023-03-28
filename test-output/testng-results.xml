@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-27T19:41:49 IST" name="Suite" finished-at="2023-03-27T19:41:53 IST" duration-ms="4003">
+  <suite started-at="2023-03-28T13:39:35 IST" name="Default suite" finished-at="2023-03-28T13:39:35 IST" duration-ms="82">
     <groups>
     </groups>
-    <test started-at="2023-03-27T19:41:49 IST" name="Test" finished-at="2023-03-27T19:41:53 IST" duration-ms="4003">
-      <class name="Test.LaunchBrowser">
-        <test-method signature="launch()[pri:0, instance:Test.LaunchBrowser@62230c58]" started-at="2023-03-27T19:41:49 IST" name="launch" finished-at="2023-03-27T19:41:53 IST" duration-ms="3942" status="PASS">
+    <test started-at="2023-03-28T13:39:35 IST" name="Default test" finished-at="2023-03-28T13:39:35 IST" duration-ms="82">
+      <class name="Tests.LaunchBrowser">
+        <test-method signature="launch()[pri:0, instance:Tests.LaunchBrowser@74455848]" started-at="2023-03-28T13:39:35 IST" name="launch" finished-at="2023-03-28T13:39:35 IST" duration-ms="15" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launch -->
-      </class> <!-- Test.LaunchBrowser -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+      </class> <!-- Tests.LaunchBrowser -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
